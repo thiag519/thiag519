@@ -1,6 +1,6 @@
-## Hi there 👋
+## Olá 👋
 
- 🔭 I’m currently working on ...
+ 🔭 Conheça um dos meus projetos ...
 
 <div>
   <h1>Urna eletrônica </h1>
