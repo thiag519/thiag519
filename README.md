@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ...
 
 <div>
-  <h1>Urna</h1>
+  <h1>Urna eletrônica </h1>
   <img height="150px" src="https://github.com/user-attachments/assets/8f9ccd58-807a-4020-8239-2baf01673e92"/>  
   <br/>
   <h3>Tecnologias</h3>
@@ -13,6 +13,7 @@
 </div>
 
   - 🌱 I’m currently learning React.
+## 
 <!--
 **thiag519/thiag519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
