@@ -15,7 +15,8 @@
 <br/>
 <div>
 <h1>Pizzas</h1>
-  <img height="150px" src=""/>  
+ <a href=""><img height="150px" src=""/></a>
+  
   <br/>
   <h3>Tecnologias utilizadas </h3>
   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
