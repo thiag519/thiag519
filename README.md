@@ -15,7 +15,7 @@
 <br/>
 <div>
 <h1>Pizzas</h1>
- <a href=""><img height="150px" src=""/></a>
+ <a href="https://github.com/thiag519/projeto_pizza"><img height="150px" src=""/></a>
   
   <br/>
   <h3>Tecnologias utilizadas </h3>
