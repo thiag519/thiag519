@@ -1,6 +1,6 @@
 ## Olá 👋
 
- 🔭 Conheça um dos meus projetos ...
+ 🔭 Conheça meus projetos ...
 
 <div>
   <h1>Urna eletrônica </h1>
@@ -12,6 +12,15 @@
   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 </div>
 <br/>
+<div>
+<h1>Pizzas</h1>
+  <img height="150px" src=""/>  
+  <br/>
+  <h3>Tecnologias utilizadas </h3>
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+</div>
 <div>
   <br/>
   <h3>Skills</h3>
