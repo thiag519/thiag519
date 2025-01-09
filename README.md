@@ -4,7 +4,8 @@
 
 <div>
   <h1>Urna eletrônica </h1>
-  <img height="150px" src="https://github.com/user-attachments/assets/8f9ccd58-807a-4020-8239-2baf01673e92"/>  
+ <a href="https://github.com/thiag519/projeto-urna"><img height="150px" src="https://github.com/user-attachments/assets/8f9ccd58-807a-4020-8239-2baf01673e92"/> </a>
+   
   <br/>
   <h3>Tecnologias utilizadas </h3>
   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
