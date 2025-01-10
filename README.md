@@ -4,7 +4,7 @@
 
 <div>
   <h1>Urna eletrônica </h1>
- <a href="https://github.com/thiag519/projeto-urna"><img height="150px" src="https://github.com/user-attachments/assets/8f9ccd58-807a-4020-8239-2baf01673e92"/> </a>
+ <a target="_blank" href="https://github.com/thiag519/projeto-urna"><img height="150px" src="https://github.com/user-attachments/assets/8f9ccd58-807a-4020-8239-2baf01673e92"/> </a>
    
   <br/>
   <h3>Tecnologias utilizadas </h3>
@@ -15,7 +15,7 @@
 <br/>
 <div>
 <h1>Pizzas</h1>
- <a href="https://github.com/thiag519/projeto_pizza"><img height="150px" src="https://github.com/user-attachments/assets/7f1abb61-ed8b-46da-b927-8a577a1fb56d"/></a>
+ <a target="_blank" href="https://github.com/thiag519/projeto_pizza"><img height="150px" src="https://github.com/user-attachments/assets/7f1abb61-ed8b-46da-b927-8a577a1fb56d"/></a>
   
   <br/>
   <h3>Tecnologias utilizadas </h3>
