@@ -34,7 +34,7 @@
  </div>
  <div>
  <h1>Pizzas</h1>
-  <a target="_blank" href="https://github.com/thiag519/site-web"><img height="150px" src="https://github.com/user-attachments/assets/7f1abb61-ed8b-46da-b927-8a577a1fb56d"/></a>
+  <a target="_blank" href="https://github.com/thiag519/site-web"><img height="150px" src="https://github.com/user-attachments/assets/18d83248-28c4-43b2-8305-db8e411405bd"/></a>
    
    <br/>
    <h3>Tecnologias utilizadas </h3>
@@ -42,11 +42,11 @@
    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
  </div>
+ 
   <div>
  <h1>Calculadora IMC</h1>
   <a target="_blank" href="https://github.com/thiag519/react-calc-imc"><img height="150px" src="https://github.com/user-attachments/assets/d938085e-0e95-4eb3-a567-81f7f90ee6a7"/></a>
-   
-
+ 
    <br/>
    <h3>Tecnologias utilizadas </h3>
    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
