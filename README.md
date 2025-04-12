@@ -2,37 +2,47 @@
 
  🔭 Conheça meus projetos ...
 
-<div>
-  <h1>Urna eletrônica </h1>
- <a target="_blank" href="https://github.com/thiag519/projeto-urna"><img height="150px" src="https://github.com/user-attachments/assets/8f9ccd58-807a-4020-8239-2baf01673e92"/> </a>
+ <div>
+   <h1>Urna eletrônica </h1>
+  <a target="_blank" href="https://github.com/thiag519/projeto-urna"><img height="150px" src="https://github.com/user-attachments/assets/8f9ccd58-807a-4020-8239-2baf01673e92"/> </a> 
+   <br/>
+   <h3>Tecnologias utilizadas </h3>
+   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
+   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
+   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+ </div>
+ <br/>
+ <div>
+ <h1>Pizzas</h1>
+  <a target="_blank" href="https://github.com/thiag519/projeto_pizza"><img height="150px" src="https://github.com/user-attachments/assets/7f1abb61-ed8b-46da-b927-8a577a1fb56d"/></a>
    
-  <br/>
-  <h3>Tecnologias utilizadas </h3>
-  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
-  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
-  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-</div>
-<br/>
-<div>
-<h1>Pizzas</h1>
- <a target="_blank" href="https://github.com/thiag519/projeto_pizza"><img height="150px" src="https://github.com/user-attachments/assets/7f1abb61-ed8b-46da-b927-8a577a1fb56d"/></a>
+   <br/>
+   <h3>Tecnologias utilizadas </h3>
+   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
+   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
+   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+ </div>
+ <div>
+   <h1>Quadro de desenho</h1>
+    <a target="_blank" href="https://github.com/thiag519/quadro-de-desenho"><img height="150px" src="https://github.com/user-attachments/assets/8b5b4b61-c9bb-4ca7-9a6e-8e11d8594169"/></a> 
   
-  <br/>
-  <h3>Tecnologias utilizadas </h3>
-  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
-  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
-  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-</div>
-<div>
-  <h1>Quadro de desenho</h1>
-   <a target="_blank" href="https://github.com/thiag519/quadro-de-desenho"><img height="150px" src="https://github.com/user-attachments/assets/8b5b4b61-c9bb-4ca7-9a6e-8e11d8594169"/></a> 
- 
-  <br/>
-  <h3>Tecnologias</h3>
-  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
-  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
-  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-</div>
+   <br/>
+   <h3>Tecnologias</h3>
+   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
+   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
+   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+ </div>
+  <div>
+ <h1>Calculadora IMC</h1>
+  <a target="_blank" href="https://github.com/thiag519/projeto_pizza"><img height="150px" src="https://github.com/user-attachments/assets/d938085e-0e95-4eb3-a567-81f7f90ee6a7"/></a>
+   
+
+   <br/>
+   <h3>Tecnologias utilizadas </h3>
+   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
+   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
+   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+ </div>
 <div>
   <br/>
   <h3>Skills</h3>
