@@ -33,7 +33,7 @@
    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
  </div>
  <div>
- <h1>Pizzas</h1>
+ <h1>Site web</h1>
   <a target="_blank" href="https://github.com/thiag519/site-web"><img height="150px" src="https://github.com/user-attachments/assets/18d83248-28c4-43b2-8305-db8e411405bd"/></a>
    
    <br/>
