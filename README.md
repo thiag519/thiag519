@@ -34,7 +34,7 @@
  </div>
   <div>
  <h1>Calculadora IMC</h1>
-  <a target="_blank" href="https://github.com/thiag519/projeto_pizza"><img height="150px" src="https://github.com/user-attachments/assets/d938085e-0e95-4eb3-a567-81f7f90ee6a7"/></a>
+  <a target="_blank" href="https://github.com/thiag519/react-calc-imc"><img height="150px" src="https://github.com/user-attachments/assets/d938085e-0e95-4eb3-a567-81f7f90ee6a7"/></a>
    
 
    <br/>
