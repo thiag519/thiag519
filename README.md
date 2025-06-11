@@ -1,5 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Winky+Rough&weight=500&pause=1000&color=2EF7E7&background=257FFF00&width=435&lines=Ol%C3%A1+bem-vindo+ao+meu+GitHub+)](https://git.io/typing-svg)
 ## [Portfolio ](https://thiag519.github.io/portf-lio-/)
+<!--
 
  🔭 Conheça meus projetos ...
 
@@ -55,6 +56,7 @@
    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
  </div>
 <div>
+-->
   <br/>
   <h3>Skills</h3>
   <img height="40px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
