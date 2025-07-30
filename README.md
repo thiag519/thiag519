@@ -1,78 +1,45 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Winky+Rough&weight=500&pause=1000&color=2EF7E7&background=257FFF00&width=435&lines=Ol%C3%A1+bem-vindo+ao+meu+GitHub+)](https://git.io/typing-svg)
+
+
+
+👋 Oi! Sou Thiago, desenvolvedor focado na criação de soluções web que realmente ajudam pessoas e negócios do dia a dia. Minha stack atual inclui:
+
+Frontend: React, Next.js, TypeScript, JavaScript, HTML5 e CSS3
+
+Backend: Node.js com Express 
+
+Banco de dados: PostgreSQL, MySQL e MongoDB
+
+Extras:  Prisma e TailwindCSS
+
+🔧 Atualmente estou trabalhando no desenvolvimento de um site para um salão de beleza. A ideia é oferecer uma interface clara para o agendamento de serviços, exibir o portfólio dos profissionais e facilitar o contato com os clientes. O projeto já conta com uma página de reservas, integração com Firebase para autenticação e um painel administrativo para gestão de horários.
+
+💬 Se quiser trocar ideias, falar sobre tecnologia ou só bater um papo, é só me chamar por aqui ou me encontrar no [LinkedIn ](https://www.linkedin.com/in/thiago519/)/ [GitHub ](https://github.com/thiag519)/ [Email ](mailto:thiagosouzadasilva78@gmail.com). Tô sempre por perto!
+---
+
+## 🚀 Minhas Skills
+
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?thiag519=iuricode&show_icons=true)
+
+
+<!--
+
 ## [Portfolio ](https://thiag519.github.io/portf-lio-/)
-<!--
-
- 🔭 Conheça meus projetos ...
-
- <div>
-   <h1>Urna eletrônica </h1>
-  <a target="_blank" href="https://github.com/thiag519/projeto-urna"><img height="150px" src="https://github.com/user-attachments/assets/8f9ccd58-807a-4020-8239-2baf01673e92"/> </a> 
-   <br/>
-   <h3>Tecnologias utilizadas </h3>
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
- </div>
- <br/>
- <div>
- <h1>Pizzas</h1>
-  <a target="_blank" href="https://github.com/thiag519/projeto_pizza"><img height="150px" src="https://github.com/user-attachments/assets/7f1abb61-ed8b-46da-b927-8a577a1fb56d"/></a>
-   
-   <br/>
-   <h3>Tecnologias utilizadas </h3>
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
- </div>
- <div>
-   <h1>Quadro de desenho</h1>
-    <a target="_blank" href="https://github.com/thiag519/quadro-de-desenho"><img height="150px" src="https://github.com/user-attachments/assets/8b5b4b61-c9bb-4ca7-9a6e-8e11d8594169"/></a> 
-  
-   <br/>
-   <h3>Tecnologias</h3>
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
- </div>
- <div>
- <h1>Site web</h1>
-  <a target="_blank" href="https://github.com/thiag519/site-web"><img height="150px" src="https://github.com/user-attachments/assets/18d83248-28c4-43b2-8305-db8e411405bd"/></a>
-   
-   <br/>
-   <h3>Tecnologias utilizadas </h3>
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
- </div>
- 
-  <div>
- <h1>Calculadora IMC</h1>
-  <a target="_blank" href="https://github.com/thiag519/react-calc-imc"><img height="150px" src="https://github.com/user-attachments/assets/d938085e-0e95-4eb3-a567-81f7f90ee6a7"/></a>
- 
-   <br/>
-   <h3>Tecnologias utilizadas </h3>
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  
-   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
- </div>
-<div>
--->
-  <br/>
-  <h3>Skills</h3>
-  <div style="display: fles;">
-    <div><img height="40px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </div>
-   <div><img height="40px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> </div>
-   <div><img height="40px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></div>
-   <div><img height="40px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></div>
-   <div><img height="40px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></div>
-   <div><img height="40px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></div>
- </div>
-</div>
-  
-
-
-
-<!--
 **thiag519/thiag519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
