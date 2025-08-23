@@ -4,17 +4,17 @@
 
 👋 Oi! Sou Thiago, desenvolvedor focado na criação de soluções web que realmente ajudam pessoas e negócios do dia a dia. Minha stack atual inclui:
 
-Frontend: React, Next.js, TypeScript, JavaScript, HTML5 e CSS3
+Frontend: React, Next.js, TypeScript, JavaScript, HTML5 e CSS3.
 
 Backend: Node.js com Express 
 
 Banco de dados: PostgreSQL, MySQL e MongoDB
 
-Extras:  Prisma, Figma, HeidiSQL, DBeaver, Postman, Bruno, Insomnia  e TailwindCSS
+Extras:  Prisma, Figma, HeidiSQL, DBeaver, Postman, Bruno, Insomnia  e TailwindCSS.
 
 🔧 No momento, estou trabalhando no planejamento de um site para um salão de beleza. A proposta é criar uma plataforma simples e funcional que permita aos clientes agendarem serviços, conhecerem os profissionais e visualizarem o portfólio do salão de forma prática.
 
-💬 Se quiser trocar ideias, falar sobre tecnologia ou só bater um papo, é só me chamar por aqui ou me encontrar no [LinkedIn ](https://www.linkedin.com/in/thiago519/)/ [GitHub ](https://github.com/thiag519)/ [Email ](mailto:thiagosouzadasilva78@gmail.com). Tô sempre por perto!
+💬 Se quiser trocar ideias, falar sobre tecnologia ou só bater um papo, é só me chamar por aqui ou me encontrar no [LinkedIn ](https://www.linkedin.com/in/thiago519/)/ [GitHub ](https://github.com/thiag519)/ [Email ](mailto:thiagosouzadasilva78@gmail.com).
 
 
 
