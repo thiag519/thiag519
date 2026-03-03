@@ -13,7 +13,7 @@ Banco de dados: PostgreSQL, MySQL e MongoDB
 Extras:  Prisma, Figma e TailwindCSS.
 
 
- Se quiser trocar ideias, falar sobre tecnologia ou só bater um papo, é só me chamar por aqui ou me encontrar no [LinkedIn ](https://www.linkedin.com/in/devthiagosouza/)/ [GitHub ](https://github.com/thiag519)/ [Email ](mailto:thiagosouzadasilva78@gmail.com).
+ Se quiser trocar ideias, é só me chamar por aqui ou me encontrar no [LinkedIn ](https://www.linkedin.com/in/devthiagosouza/)/ [GitHub ](https://github.com/thiag519)/ [Email ](mailto:thiagosouzadasilva78@gmail.com).
 
 
 
